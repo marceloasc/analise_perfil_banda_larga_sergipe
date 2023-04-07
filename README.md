@@ -1,1 +1,1 @@
-# analise_perfil_de_banda_larga_sergipe
+Projeto de análise de dados para entender o perfil de banda larga no estado de Sergipe 
